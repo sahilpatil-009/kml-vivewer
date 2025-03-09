@@ -1,0 +1,36 @@
+.heading{
+    font-size: 40px;
+    font-weight: 700;
+    color: #333;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.fileInput{
+    border: 2px solid #aeacac;
+    padding: 10px 20px;
+    font-size: 15px;
+    width: 25%;
+    border-radius: 5px;
+}
+
+.ctrlbtn{
+    margin: 15px 20px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+    transition:  all .5s ease;
+    font-weight: 500;
+    width: 100px;
+    height: 40px;
+    font-size: 15px;
+}
+
+.ctrlbtn:hover{
+    background-color: #fff;
+    color: #000;
+    border: 1px solid black;
+}
